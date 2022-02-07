@@ -1,4 +1,4 @@
-# simple_digital_clock
+# digital-clock
 
 This is a testing project for my first upload to Github
 
